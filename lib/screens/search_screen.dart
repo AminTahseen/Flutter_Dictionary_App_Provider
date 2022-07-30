@@ -22,6 +22,7 @@ class _SearchScreenState extends State<SearchScreen> {
           mainAxisAlignment: MainAxisAlignment.center,
           crossAxisAlignment: CrossAxisAlignment.start,
           children: <Widget>[
+            //comment
             Text(
               'Dictionary',
               style: TextStyle(fontSize: 40, fontWeight: FontWeight.bold),
